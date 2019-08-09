@@ -1,9 +1,9 @@
 /**
- * °ªÀ» ÀÔ·Â ¹Þ¾Æ¼­ Ãâ·ÂÇÏ´Â ¿¹Á¦ 
+ * ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ ï¿½Þ¾Æ¼ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½ 
  */
 class WhatName{
     public static void main(String[] args){
-        System.out.print("¾È³çÇÏ¼¼¿ä"); //Ãâ·Â¹®
+        System.out.print("What your name?"); //ï¿½ï¿½Â¹ï¿½
 
     }
 }
