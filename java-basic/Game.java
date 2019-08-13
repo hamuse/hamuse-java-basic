@@ -59,6 +59,6 @@ class Game{
             System.out.println("잘못된 값입니다.");
         }
 
-       
+       System.out.println(cum);
     }
 }
